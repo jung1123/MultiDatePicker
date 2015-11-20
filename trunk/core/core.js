@@ -17,7 +17,7 @@ function set_CurrentDay() {
 function set_Today() {
 	var index = dt.getDay();
 	return convertDateToText[index];
-}
+} //
 
 function draw() {
 	var firstDay = 
