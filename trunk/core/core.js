@@ -26,7 +26,7 @@ function draw() {
 			console.log("<br>)";
 		}
 	}
-}
+}//
 
 function get_FirstDay(){
 	var d = new Date(set_CurrentYear(),set_CurrentMonth(),1);
